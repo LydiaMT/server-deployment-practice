@@ -9,7 +9,7 @@
 
 ✨ [GitHub Actions](https://github.com/LydiaMT/server-deployment-practice/actions)
 
-✨ [Pull Request]()
+✨ [Pull Request](https://github.com/LydiaMT/server-deployment-practice/pull/1)
 
 # Node Ecosystem, TDD, CI/CD
 
