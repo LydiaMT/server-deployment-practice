@@ -1,7 +1,6 @@
 # Server Deployment Practice
 
-## Lydia Minehan-Tubic
-## 401 JavaScript
+### Lydia Minehan-Tubic | Lab 01 - 401 JavaScript
 
 ✨ [Dev Branch: Deployed Heroku Site](https://lydia-server-deploy-dev.herokuapp.com/)
 
@@ -9,7 +8,20 @@
 
 ✨ [GitHub Actions](https://github.com/LydiaMT/server-deployment-practice/actions)
 
-✨ [Pull Request](https://github.com/LydiaMT/server-deployment-practice/pull/3)
+✨ [Pull Request](https://github.com/LydiaMT/server-deployment-practice/pull/2)
+
+### To Install Application
+
+- Clone down to your device
+- In the root directory, run npm install to install node modules
+- Create a .env file and add a port variable to your environment
+- Run nodemon to see your live server via local host in your browser. You should see 'Hello world'
+
+### To Check Tests
+
+- In the command line at the root directory, run npm test to make sure all test are passing as expected 
+
+______________________________________________________________________________________________________________________________
 
 # Node Ecosystem, TDD, CI/CD
 
@@ -55,7 +67,7 @@ module.exports = person;
 Another module can **import** and use that function or object
 
 ```javascript
-const human = require('./person.js'))
+const human = require('./person.js')
 console.log( human.walk() );  // prints 'walking'
 ```
 
