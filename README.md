@@ -1,4 +1,4 @@
-# Server Deoployment Practice
+# Server Deployment Practice
 
 ## Lydia Minehan-Tubic
 ## 401 JavaScript
@@ -9,7 +9,7 @@
 
 ✨ [GitHub Actions](https://github.com/LydiaMT/server-deployment-practice/actions)
 
-✨ [Pull Request](https://github.com/LydiaMT/server-deployment-practice/pull/1)
+✨ [Pull Request](https://github.com/LydiaMT/server-deployment-practice/pull/3)
 
 # Node Ecosystem, TDD, CI/CD
 
