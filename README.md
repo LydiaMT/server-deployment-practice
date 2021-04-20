@@ -1,4 +1,4 @@
-# Server Deoployment Practice
+# Server Deployment Practice
 
 ## Lydia Minehan-Tubic
 ## 401 JavaScript
